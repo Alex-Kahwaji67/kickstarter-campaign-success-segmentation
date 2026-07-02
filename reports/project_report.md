@@ -51,7 +51,3 @@ The three clusters were:
 | 2 | Lean, quick-launch campaigns | 10,180 | 0.6159 |
 
 The strongest business insight is that campaign outcomes appear related to combinations of ambition, preparation, and timing. High-goal campaigns can still outperform when they show longer preparation time, while mid-scale campaigns may need either better preparation or better goal calibration.
-
-## Recommended Portfolio Framing
-
-Position this as a leakage-aware classification and segmentation project, not as a production-ready model. The best interview angle is the analytical judgment: excluding post-launch leakage, comparing model families, acknowledging failed-campaign recall, and translating clusters into product interventions.
